@@ -2,5 +2,6 @@
 
 ## TODO
 
-[ ] Add Aliased Gridworld environment;
-[ ] Add Hexcer environment;
+- [ ] Add Aliased Gridworld environment;
+- [ ] Add Hexcer environment;
+- [ ] Add EscapePod environment;
